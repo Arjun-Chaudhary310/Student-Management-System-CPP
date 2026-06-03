@@ -95,6 +95,3 @@ g++ main.cpp -o student
 This project was developed as a learning initiative to strengthen core C++ and software development concepts.
 
 ---
-
-⭐ If you like this project, don’t forget to star the repository!
-
