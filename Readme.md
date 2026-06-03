@@ -95,8 +95,6 @@ g++ main.cpp -o student
 **Arjun Chaudhary**  
 B.Tech CSE, Jaypee Institute of Information Technology, Noida
 
-🔗 LinkedIn: *(add your LinkedIn profile link here)*
-
 ---
 
 ## ⭐ Acknowledgements
