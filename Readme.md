@@ -91,12 +91,6 @@ g++ main.cpp -o student
 
 ---
 
-## 👤 Author
-**Arjun Chaudhary**  
-B.Tech CSE, Jaypee Institute of Information Technology, Noida
-
----
-
 ## ⭐ Acknowledgements
 This project was developed as a learning initiative to strengthen core C++ and software development concepts.
 
